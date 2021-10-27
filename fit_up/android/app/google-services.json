@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "300577462433",
+    "project_id": "fitup-dd616",
+    "storage_bucket": "fitup-dd616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300577462433:android:fc8150fb4336aa6002f8e0",
+        "android_client_info": {
+          "package_name": "com.example.fit_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300577462433-hdovlm35anshu2smi2ac5trn0jf05plf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fit_up",
+            "certificate_hash": "f9c7c5a4644da36da799e969793fe17c00240c68"
+          }
+        },
+        {
+          "client_id": "300577462433-o0rekf9l3ud734ru03d6pormhcaaqscb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB55vsPyPKTo-9zGR6w4tFZ65a_0bPFWvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300577462433-o0rekf9l3ud734ru03d6pormhcaaqscb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
